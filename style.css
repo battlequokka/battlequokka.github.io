@@ -4,7 +4,7 @@ body, html {
 
 .bg {
   /* The image used */
-  background-image: url("/trunked/01www/img/backing.jpg");
+  background-image: url("./trunked/01www/img/backing.jpg");
 
   /* Full height */
   height: 100%;
